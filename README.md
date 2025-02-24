@@ -1,2 +1,1 @@
-# day_8bootcamp
-I performed data entering, formatting, data cleaning, data visualization.
+ based on my pesonal finance and expenses analysis I performed data entering, formatting, data cleaning, data visualization. based on my 3month bank  account statement and i analyzed based on the number of days ,month, what i spend money on.
